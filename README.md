@@ -18,8 +18,8 @@ Welcome to my GitHub Portfolio! Here you'll find a collection of my web developm
 
 Let's connect on social media and stay in touch:
 
-[![LinkedIn](linkedin_icon.png)](https://www.linkedin.com/in/haroon-khalid-3b9240234/)
-[![Twitter](twitter_icon.png)](https://twitter.com/haroonkkdd)
-[![GitHub](github_icon.png)](https://github.com/HaroonKhalid222/)
+[![LinkedIn](LI-In-Bug.png)](https://www.linkedin.com/in/haroon-khalid-3b9240234/)
+[![Twitter](pngegg.png)](https://twitter.com/haroonkkdd)
+[![GitHub](github.png)](https://github.com/HaroonKhalid222/)
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on a project. Looking forward to connecting with you!
