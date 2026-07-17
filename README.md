@@ -13,12 +13,12 @@ GTM Engineer building outbound systems that turn cold lists into booked meetings
 
 ### 🚀 What I do
 
-I design and run outbound infrastructure for B2B teams — from prospect enrichment to multi-channel sequencing to CRM pipeline reporting. Currently managing outbound campaigns for 30+ B2B clients, booking 30+ meetings a month.
+I design and run outbound infrastructure for B2B teams, from prospect enrichment to multi-channel sequencing to CRM pipeline reporting. Currently managing outbound campaigns for 30+ B2B clients, booking 30+ meetings a month.
 
 - 🔭 Currently building outbound systems at **RapidRev**
 - 🛠️ Tools I work in daily: **Clay.com · Instantly.ai · Smartlead.ai · HubSpot CRM · n8n**
 - 🎓 BS Computer Science @ University of Central Punjab
-- 🌱 Also active with **Google Developer Groups on Campus** — led a Rust Bootcamp for Smart Contract Developers (400+ devs) and launched a 30 Days of LeetCode program (300+ students)
+- 🌱 Also active with **Google Developer Groups on Campus**, led a Rust Bootcamp for Smart Contract Developers (400+ devs) and launched a 30 Days of LeetCode program (300+ students)
 
 ---
 
